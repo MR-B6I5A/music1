@@ -1,0 +1,6 @@
+owner=441623408707371020
+prefix=1
+game=Break | 1plsy
+stayinchannel=true
+songinstatus=false
+token=NTM3MjEwNjcxNzE3Mjg1ODg5.DyiPWQ.kzLUr3T-oyuT0Znj9r4AvJVSbtk
